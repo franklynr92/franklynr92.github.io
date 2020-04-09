@@ -1,11 +1,11 @@
 # Site settings
 author: Franklyn Rodriguez
-title: 
+title: Coding with Franklyn
 header-img: img/home-bg.png
 email: franklynr92@gmail.com
 copyright_name: Franklyn Rodriguez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey of knowledge of programming languages
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  franklynr92
