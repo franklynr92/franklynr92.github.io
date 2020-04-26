@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Change?"
-date:       2020-04-26 04:23:35 +0000
+date:       2020-04-26 00:23:36 -0400
 permalink:  why_change
 ---
 
