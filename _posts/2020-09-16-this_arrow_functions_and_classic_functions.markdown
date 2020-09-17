@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "This, Arrow Functions, and Classic Functions"
-date:       2020-09-17 01:30:48 +0000
+date:       2020-09-16 21:30:49 -0400
 permalink:  this_arrow_functions_and_classic_functions
 ---
 
